@@ -1,0 +1,7 @@
+.header {
+  display: flex;
+  max-width: 1184px;
+  max-height: 52px;
+  justify-content: space-between;
+  font-family: 'Inter', 'Helvatica', sans-serif;
+}
