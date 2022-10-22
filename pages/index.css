@@ -29,7 +29,6 @@
 @import url(../blocks/intro/__list-digit/intro__list-digit.css);
 
 @import url(../blocks/photo-grid/photo-grid.css);
-@import url(../blocks/photo-grid/_container/photo-grid_container.css);
 @import url(../blocks/photo-grid/__item/photo-grid__item.css);
 
 @import url(../blocks/places/places.css);
@@ -48,7 +47,6 @@
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
 
 @import url(../blocks/footer/footer.css);
-@import url(../blocks/footer/_container/footer_container.css);
 @import url(../blocks/footer/__list/footer__list.css);
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);

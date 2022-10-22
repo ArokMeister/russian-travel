@@ -4,12 +4,20 @@
   flex-direction: row;
   max-width: 1184px;
   max-height: 18px;
+  margin: 0 48px;
   justify-content: space-between;
+}
+
+@media screen and (max-width: 984px) {
+  .footer {
+    margin: 0 24px;
+  }
 }
 
 @media screen and (max-width: 568px) {
   .footer {
     flex-direction: column;
     min-height: 310px;
+    margin: 0 16px;
   }
 }

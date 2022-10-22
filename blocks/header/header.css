@@ -2,6 +2,19 @@
   display: flex;
   max-width: 1184px;
   max-height: 52px;
+  margin: 0 48px;
   justify-content: space-between;
   font-family: 'Inter', 'Helvatica', sans-serif;
+}
+
+@media screen and (max-width: 984px) {
+  .header {
+    margin: 0 24px;
+  }
+}
+
+@media screen and (max-width: 568px) {
+  .header {
+    margin: 0 16px;
+  }
 }
