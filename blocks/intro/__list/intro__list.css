@@ -4,16 +4,22 @@
   padding: 0;
 }
 
+@media screen and (max-width: 1024px) {
+  .intro__list {
+    margin-left: 48px;
+  }
+}
+
 @media screen and (max-width: 984px) {
   .intro__list {
-    margin: 33px 16px 88px 16px;
+    margin: 33px 24px 88px;
     max-width: 720px;
   }
 }
 
 @media screen and (max-width: 568px) {
   .intro__list {
-    margin: 34px 16px 64px 16px;
+    margin: 34px 16px 64px;
     max-width: 288px; 
   }
 }
